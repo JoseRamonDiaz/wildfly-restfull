@@ -1,0 +1,17 @@
+*/target/*
+dev_jco_rfc.trc
+nb-configuration.xml
+*.class
+*.war
+*.jar
+MermasSD/target/MermasSD-1.0.0-SNAPSHOT/WEB-INF/classes/.netbeans_automatic_build
+*/target/*/.netbeans_automatic_build
+/MermasMermas/target/
+*.idea/
+*.iml
+*.properties
+*.lst
+MermasSD/target/**
+MermasUsuario/target/**
+MermasMM/target/**
+MermasMermas/target/**
